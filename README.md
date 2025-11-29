@@ -2,6 +2,12 @@
   <img src="Ridgeway Admission Assistant.png" width="100%">
 </p>
 
+### Key Files
+
+- [`persona-spec.md`](./persona-spec.md) – Full behavior & architecture specification  
+- [`system-prompt.txt`](./system-prompt.txt) – Ready-to-use system prompt  
+- [`Ridgeway Admission Assistant.png`](./Ridgeway%20Admission%20Assistant.png) – Visual overview
+
 ---
 
 # Ridgeway Admission Assistant (Persona v2)
