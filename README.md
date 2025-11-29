@@ -63,10 +63,11 @@ The persona solves drift and unclear responses by following strict formatting ru
 ---
 
 ## 7. Tools & Technologies Used
-- ChatGPT (LLM platform)  
-- System prompt engineering  
-- Custom chatbox frontend (prototype)  
-- Manual stress-testing  
+- Large Language Model (LLM) platform (ChatGPT)
+- System prompt engineering
+- Persona & behavior architecture design
+- Manual stress-testing with edge cases
+- Prototype chatbox frontend (not included in this repo)
 - Markdown documentation
 
 ---
@@ -102,3 +103,10 @@ User says “I don’t get it.” → Assistant apologizes and re-explains.
 - Automated testing  
 - Multi-persona expansion  
 - Scalability options
+
+## 11. What this project demonstrates
+
+- Ability to design structured AI personas for real institutional workflows  
+- Strong focus on reliability, tone control, and behavior stability  
+- Clear documentation and communication of AI behavior systems  
+- Early-career readiness for AI workflow / prompt engineering roles
