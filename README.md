@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://github.com/TejasBhone/ridgeway-admission-assistant/blob/main/Ridgeway%20Admission%20Assistant.png?raw=true
-" width="100%">
+  <img src="Ridgeway Admission Assistant.png" width="100%">
 </p>
+
+---
 
 # Ridgeway Admission Assistant (Persona v2)
 
